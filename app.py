@@ -2,7 +2,9 @@ from flask import Flask, request, jsonify
 from flask_sqlalchemy import SQLAlchemy
 from datetime import datetime
 
-
+# author: liuliyu
+# date: 2024-11-14
+# 有需要可以联系
 app = Flask(__name__)
 
 # 配置数据库
